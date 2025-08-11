@@ -126,7 +126,7 @@ Paso 5: Interpretación y Conclusión Estratégica
 5.1. Interpretación de  los Resultados
 Regresión Logística: Los coeficientes del modelo te dirán la dirección y magnitud del impacto de cada variable. Un coeficiente positivo alto indica que esa variable aumenta la probabilidad de que un cliente cancele.
 
-🧠 Herramoientas utilizadas
+🧠 Herramientas de aprendizaje y estudio  utilizadas
 Curso Online Clasificación: aprendiendo a clasificar datos con Machine Learning | Alura
 Curso Online Clasificación: validación de modelos y métricas de evaluación | Alura
 Curso Online IA aumentada: previsión de atrasos de vuelos | Alura
